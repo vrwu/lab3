@@ -40,3 +40,11 @@ body {
 .project a {
      text-align: center;
 }
+
+.description.active {
+     border: 1px solid red;
+}
+
+.jumbotron p.active {
+     color: blue;
+}
